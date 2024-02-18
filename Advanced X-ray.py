@@ -8,7 +8,9 @@ class AdjustXRayAlphaOperator(bpy.types.Operator):
     def execute(self, context):
         if bpy.context.active_object.mode == 'POSE':
             if context.space_data.shading.xray_alpha == 1.0:  # If xray_alpha is already 1
-                context.space_data.shading.show_xray = not context.space_data.shading.show_xray  # Toggle show_xray
+                context.space_data.shading.show_xray = not context.space_data.shading.show_xray # Toggle show_xray
+            if context.space_data.shading.show_xray == True and context.space_data.shading.xray_alpha == 1.0:
+                context.space_data.shading.xray_alpha = 0.5
             else:
                 context.space_data.shading.xray_alpha = 1.0  # Set xray_alpha to 1
         else:
