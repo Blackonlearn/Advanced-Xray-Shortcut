@@ -9,9 +9,16 @@ how to use (beginnner blender user):
 
 
 ### SOLVED with this script
-![CTRL+ALT+Z 4](https://github.com/Blackonlearn/Advanced-Xray-Shortcut/assets/42308380/d0178915-300a-422b-b0f3-1e66b48ca2ce)
-
-
+![image](https://github.com/Blackonlearn/Advanced-Xray-Shortcut/assets/42308380/04b81dd1-f2fb-4d5a-aa38-0008b24b5d34)
+.
+.
+.
+.
+.
+.
+.
+.
+.
 ### Main problems
 ![CTRL+ALT+Z 1](https://github.com/Blackonlearn/Advanced-Xray-Shortcut/assets/42308380/3728d4f6-8b80-49de-8a71-e5008c1c5ae4)
 ![CTRL+ALT+Z 2](https://github.com/Blackonlearn/Advanced-Xray-Shortcut/assets/42308380/ccf66450-2246-4b87-a2be-dff8fb209bf2)
