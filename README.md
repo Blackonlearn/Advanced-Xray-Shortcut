@@ -9,7 +9,8 @@ how to use (beginnner blender user):
 
 
 ### SOLVED with this script
-![image](https://github.com/Blackonlearn/Advanced-Xray-Shortcut/assets/42308380/04b81dd1-f2fb-4d5a-aa38-0008b24b5d34)
+![image](https://github.com/Blackonlearn/Advanced-Xray-Shortcut/assets/42308380/dfec199f-895b-4ec0-8649-72f23832e726)
+
 .
 .
 .
