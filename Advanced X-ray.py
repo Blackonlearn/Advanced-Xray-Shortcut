@@ -1,5 +1,9 @@
 import bpy
 
+#This simple code is mine, and it has already been pushed to github as my archive: https://github.com/Blackonlearn/Advanced-Xray-Shortcut
+
+#Shortcut: CTRL + ALT + Z (it cycles 3 mode in pose or edit mode)
+
 # Define the operator to adjust X-Ray alpha and toggle X-Ray visibility
 class AdjustXRayAlphaOperator(bpy.types.Operator):
     bl_idname = "preferences.adjust_xray_alpha"
